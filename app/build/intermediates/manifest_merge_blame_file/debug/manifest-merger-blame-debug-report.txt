@@ -1,0 +1,78 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.boundary"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:7:5-9:41
+8        android:minSdkVersion="8"
+8-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:8:9-34
+9        android:targetSdkVersion="18" />
+9-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:9:9-38
+10
+11    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+11-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:11:5-71
+11-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:11:22-68
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:12:5-81
+12-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:12:22-78
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:13:5-67
+13-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:13:22-64
+14    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+14-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:14:5-75
+14-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:14:22-72
+15
+16    <application
+16-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:16:5-40:19
+17        android:allowBackup="true"
+17-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:17:9-35
+18        android:debuggable="true"
+19        android:icon="@drawable/ic_launcher"
+19-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:18:9-45
+20        android:label="@string/app_name"
+20-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:19:9-41
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:20:9-40
+23        <activity
+23-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:21:9-29:20
+24            android:name="com.example.boundary.BoundaryActivity"
+24-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:22:13-65
+25            android:label="@string/app_name" >
+25-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:23:13-45
+26            <intent-filter>
+26-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:24:13-28:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:25:17-69
+27-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:25:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:27:17-77
+29-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:27:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity android:name="com.example.boundary.StudyActivity" >
+32-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:30:9-31:20
+32-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:30:19-68
+33        </activity>
+34        <activity android:name="com.example.boundary.AuthenActivity" >
+34-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:32:9-33:20
+34-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:32:19-69
+35        </activity>
+36        <activity android:name="com.example.boundary.AudioReceiver" >
+36-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:34:9-35:20
+36-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:34:19-68
+37        </activity>
+38        <activity android:name="com.example.boundary.AudioReceiver2" >
+38-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:36:9-37:20
+38-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:36:19-69
+39        </activity>
+40        <activity android:name="com.example.boundary.shakehand" >
+40-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:38:9-39:20
+40-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:38:19-64
+41        </activity>
+42    </application>
+43
+44</manifest>

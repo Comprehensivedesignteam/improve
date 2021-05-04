@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\identify\Improve1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\identify\Improve1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\identify\Improve1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\identify\Improve1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\identify\Improve1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\identify\Improve1\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:7:5-8:41
+INJECTED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:7:5-8:41
+INJECTED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:7:5-8:41
+INJECTED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:7:5-8:41
+INJECTED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:7:5-8:41
+	android:targetSdkVersion
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from D:\identify\Improve1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\identify\Improve1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\identify\Improve1\app\src\main\AndroidManifest.xml
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:7:5-8:41
+		INJECTED from D:\identify\Improve1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:13:22-72
+application
+ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:15:5-39:19
+	android:label
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.example.boundary.BoundaryActivity
+ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:label
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:21:13-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.example.boundary.StudyActivity
+ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:29:9-30:20
+	android:name
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:29:19-68
+activity#com.example.boundary.AuthenActivity
+ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:31:9-32:20
+	android:name
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:31:19-69
+activity#com.example.boundary.AudioReceiver
+ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:33:9-34:20
+	android:name
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:33:19-68
+activity#com.example.boundary.AudioReceiver2
+ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:35:9-36:20
+	android:name
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:35:19-69
+activity#com.example.boundary.shakehand
+ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:37:9-38:20
+	android:name
+		ADDED from D:\identify\Improve1\app\src\main\AndroidManifest.xml:37:19-64

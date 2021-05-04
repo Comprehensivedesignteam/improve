@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\identify\\Improve1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_audioreceiver.xml.flat",
+        "source": "D:\\identify\\Improve1\\app\\src\\main\\res\\layout\\activity_audioreceiver.xml"
+    },
+    {
+        "merged": "D:\\identify\\Improve1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_boundary.xml.flat",
+        "source": "D:\\identify\\Improve1\\app\\src\\main\\res\\layout\\activity_boundary.xml"
+    },
+    {
+        "merged": "D:\\identify\\Improve1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_audioreceiver2.xml.flat",
+        "source": "D:\\identify\\Improve1\\app\\src\\main\\res\\layout\\activity_audioreceiver2.xml"
+    },
+    {
+        "merged": "D:\\identify\\Improve1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\identify\\Improve1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\identify\\Improve1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\identify\\Improve1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\identify\\Improve1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_study.xml.flat",
+        "source": "D:\\identify\\Improve1\\app\\src\\main\\res\\layout\\activity_study.xml"
+    },
+    {
+        "merged": "D:\\identify\\Improve1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background2.png.flat",
+        "source": "D:\\identify\\Improve1\\app\\src\\main\\res\\drawable-hdpi\\background2.png"
+    },
+    {
+        "merged": "D:\\identify\\Improve1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_send.png.flat",
+        "source": "D:\\identify\\Improve1\\app\\src\\main\\res\\drawable-hdpi\\send.png"
+    },
+    {
+        "merged": "D:\\identify\\Improve1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shakehand.png.flat",
+        "source": "D:\\identify\\Improve1\\app\\src\\main\\res\\drawable-hdpi\\shakehand.png"
+    },
+    {
+        "merged": "D:\\identify\\Improve1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\identify\\Improve1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\identify\\Improve1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\identify\\Improve1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\identify\\Improve1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_authen.xml.flat",
+        "source": "D:\\identify\\Improve1\\app\\src\\main\\res\\layout\\activity_authen.xml"
+    },
+    {
+        "merged": "D:\\identify\\Improve1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_background1.png.flat",
+        "source": "D:\\identify\\Improve1\\app\\src\\main\\res\\drawable-xxhdpi\\background1.png"
+    },
+    {
+        "merged": "D:\\identify\\Improve1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\identify\\Improve1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\identify\\Improve1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background4.png.flat",
+        "source": "D:\\identify\\Improve1\\app\\src\\main\\res\\drawable-hdpi\\background4.png"
+    },
+    {
+        "merged": "D:\\identify\\Improve1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\identify\\Improve1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\identify\\Improve1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_color2.png.flat",
+        "source": "D:\\identify\\Improve1\\app\\src\\main\\res\\drawable-hdpi\\color2.png"
+    },
+    {
+        "merged": "D:\\identify\\Improve1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_receive.png.flat",
+        "source": "D:\\identify\\Improve1\\app\\src\\main\\res\\drawable-hdpi\\receive.png"
+    },
+    {
+        "merged": "D:\\identify\\Improve1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_color1.png.flat",
+        "source": "D:\\identify\\Improve1\\app\\src\\main\\res\\drawable-hdpi\\color1.png"
+    },
+    {
+        "merged": "D:\\identify\\Improve1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button.png.flat",
+        "source": "D:\\identify\\Improve1\\app\\src\\main\\res\\drawable-hdpi\\button.png"
+    }
+]

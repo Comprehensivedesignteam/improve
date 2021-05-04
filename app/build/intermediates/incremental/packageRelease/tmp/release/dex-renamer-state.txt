@@ -1,0 +1,4 @@
+#Fri Apr 16 21:54:55 CST 2021
+base.0=D\:\\identify\\Improve1\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

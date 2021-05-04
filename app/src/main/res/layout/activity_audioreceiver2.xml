@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background2"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/start_bt"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Record Start"
+        android:textColor="#DC143C"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/end_bt"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:text="Record Stop"
+        android:textColor="#00008B"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/ana_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="分析" />
+
+    <Button
+        android:id="@+id/play_bt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Play Record"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="303dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.42"
+        android:scrollbars="vertical"
+        android:textSize="20sp"
+        android:text="TextView" />
+
+</LinearLayout>

@@ -1,0 +1,76 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.boundary"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:7:5-8:41
+8        android:minSdkVersion="8"
+8-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:7:5-8:41
+9        android:targetSdkVersion="18" />
+9-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:8:9-38
+10
+11    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+11-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:10:5-71
+11-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:10:22-68
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:11:5-81
+12-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:11:22-78
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:12:5-67
+13-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:12:22-64
+14    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+14-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:13:5-75
+14-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:13:22-72
+15
+16    <application
+16-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:15:5-39:19
+17        android:allowBackup="true"
+17-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:16:9-35
+18        android:icon="@drawable/ic_launcher"
+18-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:17:9-45
+19        android:label="@string/app_name"
+19-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:18:9-41
+20        android:theme="@style/AppTheme" >
+20-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:19:9-40
+21        <activity
+21-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:20:9-28:20
+22            android:name="com.example.boundary.BoundaryActivity"
+22-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:21:13-65
+23            android:label="@string/app_name" >
+23-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:22:13-45
+24            <intent-filter>
+24-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:23:13-27:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:24:17-69
+25-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:24:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:26:17-77
+27-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:26:27-74
+28            </intent-filter>
+29        </activity>
+30        <activity android:name="com.example.boundary.StudyActivity" >
+30-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:29:9-30:20
+30-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:29:19-68
+31        </activity>
+32        <activity android:name="com.example.boundary.AuthenActivity" >
+32-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:31:9-32:20
+32-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:31:19-69
+33        </activity>
+34        <activity android:name="com.example.boundary.AudioReceiver" >
+34-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:33:9-34:20
+34-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:33:19-68
+35        </activity>
+36        <activity android:name="com.example.boundary.AudioReceiver2" >
+36-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:35:9-36:20
+36-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:35:19-69
+37        </activity>
+38        <activity android:name="com.example.boundary.shakehand" >
+38-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:37:9-38:20
+38-->D:\identify\Improve1\app\src\main\AndroidManifest.xml:37:19-64
+39        </activity>
+40    </application>
+41
+42</manifest>
